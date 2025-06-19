@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  font-size: 0.625;
+}
+body {
+  font-size: 1.6rem;
+}
