@@ -53,6 +53,7 @@ a {
   padding: 8px 21px;
   position: relative;
 }
+.nav li.active a,
 .nav a:hover {
   color: black;
   text-shadow: 1px 0 0 currentColor;
